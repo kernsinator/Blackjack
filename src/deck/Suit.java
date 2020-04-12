@@ -1,3 +1,5 @@
+// This class represents suit of cards
+
 package deck;
 
 public enum Suit {

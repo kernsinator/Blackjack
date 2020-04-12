@@ -1,8 +1,6 @@
+// This class represents blackjack player. Player money is held in this class, as well as if player is dealer
+
 package players;
-
-import deck.Card;
-
-import java.util.ArrayList;
 
 public class Player {
     private Hand hand;

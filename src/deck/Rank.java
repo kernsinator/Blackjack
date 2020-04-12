@@ -1,3 +1,5 @@
+// This class represents rank of playing card. Each has value and name
+
 package deck;
 
 public enum Rank {

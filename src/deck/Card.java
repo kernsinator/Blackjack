@@ -1,3 +1,6 @@
+// This class represents an individual playing card. Suit and rank are stored in Card class. Also in this class are
+// methods to check whether card is an ace, and find name and value of individual card.
+
 package deck;
 
 public class Card {
